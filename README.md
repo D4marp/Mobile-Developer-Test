@@ -9,7 +9,7 @@ This application fetches character data from the Star Wars API (SWAPI) and displ
 - Fetches data from [SWAPI](https://swapi.dev/api/people/)
 - Displays character name and height
 - Uses **Bloc** for state management
-- Scrollable list view for easy navigation
+- Scrollable list view for easy navigationcom
 
 ## Technologies Used
 - **Flutter** (Dart)
@@ -26,7 +26,7 @@ flutter --version
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/mobile_developer_test.git
+   git clone https://github.com/D4marp/Mobile-Developer-Test.git
    ```
 2. Navigate to the project directory:
    ```sh
